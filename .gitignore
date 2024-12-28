@@ -1,3 +1,6 @@
+green_scry_trading_env/
+groq_api.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
