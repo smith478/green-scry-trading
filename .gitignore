@@ -1,6 +1,7 @@
 green_scry_trading_env/
 groq_api.env
 top_20_stocks.csv
+pivoted_stock_scores.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
